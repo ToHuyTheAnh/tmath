@@ -1,0 +1,95 @@
+.container
+{
+    width: 940px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.content-area
+{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+.main-area
+{
+    width: 33%;
+    float: left;
+}
+.giua-area
+{
+    width: 33%;
+    float: left;
+}
+.slidebar
+{
+    width: 34%;
+    float: left;
+}
+.fix
+{
+    clear: both;
+}
+.group:before,
+.group:after
+{
+    content:"";
+    display: table;
+}
+.group:after{
+    clear: both;
+}
+.group{
+    zoom: 1;
+}
+.myhobby
+{
+    width: 940px;
+    margin-right: auto;
+    margin-left: auto;   
+}
+.sothich
+{
+    border-top: 3px solid black;
+    border-bottom: \ 3px solid black;
+}
+.image
+{
+    width: 10%;
+    float: right;
+}
+.anoi
+{
+    width: 80%;
+    float: left;
+}
+.thantuong
+{
+    
+}
+.thantuong2
+{
+    margin-left: 190px;
+    width: 40%;
+    float: left;
+}
+.thantuong3
+{
+    margin-right: 0px;
+    width: 0%;
+    float: right;
+}
+.doibong
+{
+    margin-top:  400px;;
+}
+.doibong2
+{
+  margin-left: 190px;
+    width: 40%;
+    float: left;
+}
+.doibong3
+{
+    margin-right: 0px;
+    width: 0%;
+    float: right;
+}
